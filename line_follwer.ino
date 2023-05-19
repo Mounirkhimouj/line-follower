@@ -1,12 +1,12 @@
-/*////////////////////////////////////////////////////////////////////////////////////
-*  Date   : 03/2023
-*  Developpers : Ouaaddi Mohamedbahae , khimouj Mounir , Nabil Oulhaj , Hicham Redone
-*  National School of Applied Sciences ,University of cadi ayyad ,Marrakech ,Morroco 
-*
-*  The code provided below is an algorithm that uses 2 infrared  sensors for a line
-*    following robot and uses PID correction to keep the robot move forward 
-*
-*/////////////////////////////////////////////////////////////////////////////////////
+/////////////////////////////////////////////////////////////////////////////////////
+//  Date   : 03/2023
+//  Developpers : Ouaaddi Mohamedbahae , khimouj Mounir , Nabil Oulhaj , Hicham Redone
+//  National School of Applied Sciences ,University of cadi ayyad ,Marrakech ,Morroco 
+//
+//  The code provided below is an algorithm that uses 2 infrared  sensors for a line
+//    following robot and uses PID correction to keep the robot move forward 
+//
+/////////////////////////////////////////////////////////////////////////////////////
 
 //we need to include the motors library to control them , and the PID library 
 #include "AFMotor.h"
